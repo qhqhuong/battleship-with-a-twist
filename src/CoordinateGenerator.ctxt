@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CoordinateGenerator
+comment0.text=\n\ COORDINATEGENERATOR\ class.\n\ \n\ @author\ Quynh\ Huong\ Nguyen\ \n\ @version\ 3\ (21\ Oct\ 2018)\n
+comment1.params=
+comment1.target=CoordinateGenerator()
+comment1.text=\n\ Initial\ a\ RandomNumberGenerator\ object\n
+comment2.params=minimumValue\ maximumValue
+comment2.target=int\ generateRandomNumber(int,\ int)
+comment2.text=\n\ Generate\ a\ random\ integer\ in\ range\ [minimumValue,\ maximumValue]\n\ @param\ minimumValue\n\ @param\ maximumValue\n\ @return\n
+numComments=3

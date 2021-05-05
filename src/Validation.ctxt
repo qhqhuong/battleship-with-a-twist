@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ VALIDATION\ class.\n\ \n\ @author\ Quynh\ Huong\ Nguyen\ \n\ @version\ 3\ (21\ Oct\ 2018)\n
+comment1.params=
+comment1.target=Validation()
+comment2.params=shipName
+comment2.target=boolean\ validateShipName(java.lang.String)
+comment2.text=\n\ Check\ whether\ ship\ name\ string\ is\ valid\n\ @param\ shipName\n\ @return\n
+comment3.params=input\ upperbound
+comment3.target=boolean\ validateCoordinate(java.lang.String,\ int)
+comment3.text=\n\ Check\ whether\ x/y\ coordinate\ is\ valid\ within\ an\ upperbound\n\ @param\ input\n\ @param\ upperbound\n\ @return\n
+comment4.params=input
+comment4.target=boolean\ validateInteger(java.lang.String)
+comment5.params=input
+comment5.target=boolean\ validateBoolean(java.lang.String)
+numComments=6

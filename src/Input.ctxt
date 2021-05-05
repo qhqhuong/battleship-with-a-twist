@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\n\ INPUT\ class.\n\ \n\ @author\ Quynh\ Huong\ Nguyen\ \n\ @version\ 3\ (21\ Oct\ 2018)\n
+comment1.params=
+comment1.target=Input()
+comment2.params=
+comment2.target=java.lang.String\ readKeyboardInput()
+numComments=3
