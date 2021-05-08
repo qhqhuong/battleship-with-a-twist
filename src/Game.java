@@ -306,7 +306,8 @@ public class Game
         if (isAHit) 
         {
             System.out.println("PLAYER HITTTTT !!!");
-        } else 
+        } 
+        else 
         {
             System.out.println("PLAYER MISSSSS !!!");
         }
