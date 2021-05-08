@@ -121,7 +121,6 @@ public class Game
             inputReader.readKeyboardInput();
             System.out.println("\u000C");
             round++; // round = round + 1 // round += 1
-
         }
 
         FileIO writter = new FileIO("result.txt");
