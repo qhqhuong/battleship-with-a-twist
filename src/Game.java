@@ -229,6 +229,7 @@ public class Game
                     System.out.printf("There is already one ship at (%d, %d)%n", xPos, yPos);
                 }
             } while (isInvalidInput);
+            
             int noOfHitsNeeded = 1;
             if (multiHit) 
             {
