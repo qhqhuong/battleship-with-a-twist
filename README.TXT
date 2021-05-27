@@ -22,5 +22,3 @@ destroyed it is taken out of play on the grid. Each hit on a ship get
 points for the player or the computer. The game ends when all the ships 
 are destroyed.
 
-
-
