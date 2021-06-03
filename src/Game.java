@@ -1,9 +1,10 @@
 /**
  * GAME class.
  * 
- * @author Quynh Huong Nguyen 
+ * @author Quynh Huong Nguyen (Zoey Nguyen)
  * @version 3 (21 Oct 2018)
  */
+
 public class Game 
 {
     private ShipList playerShips;
