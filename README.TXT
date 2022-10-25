@@ -1,6 +1,6 @@
 This is repository with the source code for the BATTLESHIP WITH A TWIST
 project.
-2018 Ⓒ Zoey Nguyen
+2018 Ⓒ Huong Nguyen
 
 ------------------------------------------------------------------------
 
