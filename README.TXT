@@ -9,7 +9,7 @@ PURPOSE OF PROJECT: A game which is for a player to try and destroy all
 of the computer opponents ships before the computer destroys all of the 
 players ships placed on the playing grid.
 VERSION or DATE: Final version - 21 Oct 2018
-AUTHORS: Zoey Nguyen 
+AUTHORS: Huong Nguyen 
 USER INSTRUCTIONS: The game will allow the player to place a number of 
 ships onto the playing grid based on x and y coordinates entered by the 
 user. The computer opponent will also do the same randomly. Each ship 
